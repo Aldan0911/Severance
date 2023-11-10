@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>434</id>
+      <name>g_severance_TBx_001~402_contour_09</name>
+      <size>691</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-01-20 05:11:45.711334+00:00</created>
+      <updated>2021-04-21 14:09:46.672835+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>690</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>Cancer</name>
+          <color>#ff6037</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>406</id>
+          <start>0</start>
+          <stop>690</stop>
+          <url>http://infinyx.synology.me:8080/?id=406</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ghbyeon</username>
+        <email></email>
+      </owner>
+      <assignee>
+        <username>severance</username>
+        <email></email>
+      </assignee>
+    </task>
+    <dumped>2023-11-07 01:42:45.505491+00:00</dumped>
+  </meta>
+  <image id="567" name="TBx_231_ser001img00028.png" width="1024" height="1072">
+  </image>
+  <image id="566" name="TBx_231_ser001img00027.png" width="1024" height="1072">
+  </image>
+  <image id="565" name="TBx_231_ser001img00026.png" width="1024" height="1072">
+  </image>
+  <image id="564" name="TBx_231_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="494.94,798.97;495.76,811.28;490.83,823.59;479.35,830.15;469.50,818.66;458.83,808.82;448.98,798.97;461.29,794.04;474.42,794.04;487.55,794.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="563" name="TBx_231_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="493.79,815.46;489.60,823.84;481.22,827.43;471.65,826.23;463.27,820.85;457.29,813.67;452.50,805.89;455.49,796.91;463.27,792.13;473.44,792.13;482.42,793.32;491.39,793.92;500.37,796.91;500.37,806.49" z_order="0">
+    </polygon>
+  </image>
+  <image id="562" name="TBx_231_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="503.98,851.23;493.72,855.33;482.78,855.33;474.57,848.49;474.57,837.55;481.41,829.34;492.35,826.61;501.24,832.76;504.66,843.02" z_order="0">
+    </polygon>
+  </image>
+  <image id="561" name="TBx_231_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="500.10,836.41;500.57,843.53;497.72,850.66;492.98,856.36;485.38,856.36;479.68,851.61;477.30,844.01;477.78,836.41;481.10,829.76;488.23,827.86;494.87,830.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="560" name="TBx_231_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="559" name="TBx_231_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="558" name="TBx_231_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="557" name="TBx_231_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="556" name="TBx_231_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="555" name="TBx_231_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="554" name="TBx_231_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="553" name="TBx_231_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="552" name="TBx_231_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="551" name="TBx_231_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="550" name="TBx_231_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="549" name="TBx_231_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="548" name="TBx_231_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="547" name="TBx_231_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="546" name="TBx_231_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="545" name="TBx_231_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="544" name="TBx_231_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="543" name="TBx_231_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="542" name="TBx_231_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="541" name="TBx_231_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="540" name="TBx_231_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="539" name="TBx_230_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="538" name="TBx_230_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="496.45,798.28;483.53,791.39;478.36,803.45;478.36,818.96;479.22,831.88;486.97,844.81;494.73,832.74;499.04,819.82;499.90,806.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="537" name="TBx_230_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="496.80,803.77;496.80,814.71;496.80,825.65;496.80,836.59;486.54,841.38;481.07,832.49;479.02,822.23;478.33,811.97;476.28,801.03;474.91,790.09;485.86,786.67;494.06,794.19" z_order="0">
+    </polygon>
+  </image>
+  <image id="536" name="TBx_230_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="492.10,792.09;494.25,804.30;494.97,815.07;494.97,826.55;492.10,837.33;481.33,835.17;479.18,824.40;479.18,812.91;477.74,802.14;479.20,792.10;487.79,789.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="535" name="TBx_230_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="534" name="TBx_230_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="533" name="TBx_230_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="532" name="TBx_230_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="531" name="TBx_230_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="530" name="TBx_230_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="529" name="TBx_230_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="528" name="TBx_230_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="527" name="TBx_230_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="526" name="TBx_230_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="525" name="TBx_230_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="524" name="TBx_230_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="523" name="TBx_230_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="522" name="TBx_230_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="521" name="TBx_230_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="520" name="TBx_230_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="519" name="TBx_230_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="518" name="TBx_230_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="517" name="TBx_230_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="516" name="TBx_229_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="544.26,857.65;537.54,860.42;531.99,862.79;526.45,865.56;520.91,868.33;514.58,869.91;508.25,868.73;502.71,865.96;496.77,863.98;494.80,858.04;498.75,853.29;504.29,850.13;510.63,848.54;516.96,847.75;523.29,846.96;529.62,845.38;536.35,844.98;542.28,846.56;544.66,852.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="515" name="TBx_229_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="544.03,849.93;542.44,855.86;539.67,861.80;533.74,865.36;528.20,868.13;522.26,868.92;516.32,869.72;509.99,868.92;503.66,867.34;498.12,864.17;495.75,858.63;498.52,853.09;503.66,849.93;509.99,849.93;517.12,849.14;523.45,847.95;529.78,846.76;536.51,844.78;542.44,846.37" z_order="0">
+    </polygon>
+  </image>
+  <image id="514" name="TBx_229_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="513" name="TBx_229_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="512" name="TBx_229_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="511" name="TBx_229_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="510" name="TBx_229_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="509" name="TBx_229_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="508" name="TBx_229_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="507" name="TBx_229_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="506" name="TBx_229_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="505" name="TBx_229_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="504" name="TBx_229_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="503" name="TBx_229_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="502" name="TBx_229_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="501" name="TBx_229_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="500" name="TBx_229_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="499" name="TBx_229_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="498" name="TBx_229_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="497" name="TBx_229_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="496" name="TBx_229_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="495" name="TBx_229_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="494" name="TBx_229_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="493" name="TBx_228_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="530.13,844.03;528.95,850.36;526.57,855.90;520.64,857.49;514.70,858.28;508.37,860.26;502.04,859.86;497.29,855.11;493.73,849.57;490.96,844.03;490.56,838.10;490.96,831.76;494.91,827.02;500.06,823.85;506.39,823.45;513.91,824.25;521.03,826.62;527.36,828.99;531.32,833.74;530.53,839.68" z_order="0">
+    </polygon>
+  </image>
+  <image id="492" name="TBx_228_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="529.99,860.94;521.61,866.32;512.64,869.91;503.66,866.32;494.69,862.73;487.51,855.55;485.71,846.58;485.71,837.00;491.10,828.63;499.47,823.24;508.45,819.65;517.42,821.45;526.40,825.04;532.38,832.22;535.37,841.19;535.37,851.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="491" name="TBx_228_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="529.15,857.07;520.53,864.97;509.76,867.12;498.99,865.69;488.22,860.66;486.07,849.89;488.22,839.12;492.53,829.07;501.15,821.89;511.92,820.45;522.69,824.76;532.74,829.07;533.46,839.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="490" name="TBx_228_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="489" name="TBx_228_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="488" name="TBx_228_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="487" name="TBx_228_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="486" name="TBx_228_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="485" name="TBx_228_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="484" name="TBx_228_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="483" name="TBx_228_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="482" name="TBx_228_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="481" name="TBx_228_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="480" name="TBx_228_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="479" name="TBx_228_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="478" name="TBx_228_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="477" name="TBx_228_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="476" name="TBx_228_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="475" name="TBx_228_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="474" name="TBx_228_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="473" name="TBx_228_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="472" name="TBx_228_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="471" name="TBx_228_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="470" name="TBx_228_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="469" name="TBx_228_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="468" name="TBx_227_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="497.75,828.52;487.50,832.63;477.20,835.10;465.00,831.90;455.36,827.16;444.42,827.16;433.47,824.42;422.53,822.37;412.96,816.90;407.49,808.01;407.49,797.07;414.33,787.49;424.58,786.81;435.53,786.13;447.15,786.13;459.46,786.13;470.40,786.13;479.70,793.90;486.40,800.60;495.70,808.01;499.12,818.95" z_order="0">
+    </polygon>
+  </image>
+  <image id="467" name="TBx_227_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="504.55,825.97;491.75,834.83;476.98,837.78;461.23,834.83;444.49,833.84;428.73,831.87;412.98,825.97;401.16,816.12;393.28,803.32;392.30,788.55;408.05,783.62;423.81,782.64;439.56,782.64;455.32,780.67;471.07,784.61;482.89,794.45;490.77,807.26;503.57,815.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="466" name="TBx_227_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="518.50,856.99;510.72,861.77;500.55,861.77;490.98,858.78;482.60,854.59;478.41,846.22;476.62,837.24;480.80,828.27;489.18,822.88;498.75,822.88;507.13,826.47;514.91,831.26;521.49,838.44;522.09,847.41" z_order="0">
+    </polygon>
+  </image>
+  <image id="465" name="TBx_227_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="517.06,857.23;506.89,860.22;496.12,859.02;487.15,857.23;479.37,851.24;477.57,842.27;476.38,833.29;479.97,824.92;488.34,820.73;497.32,822.52;506.29,824.92;515.27,829.70;521.25,836.88;522.45,845.86;519.46,854.83" z_order="0">
+    </polygon>
+  </image>
+  <image id="464" name="TBx_227_ser001img00019.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="515.15,856.21;513.40,851.70;504.90,860.20;494.00,860.20;486.10,855.50;480.10,844.70;480.70,832.50;486.60,823.70;495.04,817.44;505.81,819.59;516.00,825.30;519.10,835.20;518.40,843.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="463" name="TBx_227_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="462" name="TBx_227_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="461" name="TBx_227_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="460" name="TBx_227_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="459" name="TBx_227_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="458" name="TBx_227_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="457" name="TBx_227_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="456" name="TBx_227_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="455" name="TBx_227_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="454" name="TBx_227_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="453" name="TBx_227_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="452" name="TBx_227_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="451" name="TBx_227_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="450" name="TBx_227_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="449" name="TBx_227_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="448" name="TBx_227_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="447" name="TBx_227_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="446" name="TBx_227_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="445" name="TBx_226_ser001img00027.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="535.01,838.40;529.88,845.81;521.34,848.09;512.79,848.66;503.67,848.66;495.69,845.24;489.99,837.26;487.71,828.15;492.27,820.17;500.25,816.75;509.37,816.18;514.50,820.70;520.77,825.87;529.88,827.01;535.01,834.42" z_order="0">
+    </polygon>
+  </image>
+  <image id="444" name="TBx_226_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="535.80,841.10;525.20,848.40;515.87,852.83;501.51,853.55;490.74,851.40;479.97,846.37;479.25,835.60;485.71,825.55;494.33,818.37;505.81,816.22;518.00,826.60;528.80,828.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="443" name="TBx_226_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="522.24,813.55;520.87,823.80;511.29,829.28;499.67,829.96;488.73,829.96;478.47,828.59;468.90,824.49;462.06,816.28;464.11,805.34;474.37,803.97;486.68,805.34;496.93,803.97;507.19,801.24;518.13,801.24" z_order="0">
+    </polygon>
+  </image>
+  <image id="442" name="TBx_226_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="517.64,822.62;507.90,832.30;493.90,831.90;481.50,828.60;465.20,828.60;454.37,818.90;464.29,800.29;482.20,800.40;496.00,804.30;512.20,807.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="441" name="TBx_226_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="440" name="TBx_226_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="439" name="TBx_226_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="438" name="TBx_226_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="437" name="TBx_226_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="436" name="TBx_226_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="435" name="TBx_226_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="434" name="TBx_226_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="433" name="TBx_226_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="432" name="TBx_226_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="431" name="TBx_226_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="430" name="TBx_226_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="429" name="TBx_226_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="428" name="TBx_226_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="427" name="TBx_226_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="426" name="TBx_226_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="425" name="TBx_226_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="424" name="TBx_226_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="423" name="TBx_226_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="422" name="TBx_226_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="421" name="TBx_226_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="420" name="TBx_226_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="419" name="TBx_226_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="418" name="TBx_225_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="497.92,833.23;497.92,833.23;489.30,840.41;478.53,839.69;466.32,837.54;455.55,833.95;446.22,827.49;438.32,818.15;437.60,807.38;439.76,796.61;446.94,788.00;459.14,786.56;472.07,786.56;482.84,790.15;491.45,797.33;495.76,807.38;497.92,818.15;498.63,828.92" z_order="0">
+    </polygon>
+  </image>
+  <image id="417" name="TBx_225_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="495.90,828.30;488.73,833.02;477.96,834.45;467.19,830.15;456.42,827.99;445.64,821.53;438.46,812.91;437.03,802.14;440.62,791.37;449.95,785.63;460.72,782.76;472.93,782.76;484.42,785.63;490.16,795.68;493.10,805.10;495.30,815.20;495.70,820.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="416" name="TBx_225_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="415" name="TBx_225_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="414" name="TBx_225_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="413" name="TBx_225_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="412" name="TBx_225_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="411" name="TBx_225_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="410" name="TBx_225_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="409" name="TBx_225_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="408" name="TBx_225_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="407" name="TBx_225_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="406" name="TBx_225_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="405" name="TBx_225_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="404" name="TBx_225_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="403" name="TBx_225_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="402" name="TBx_225_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="401" name="TBx_225_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="400" name="TBx_225_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="399" name="TBx_225_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="398" name="TBx_225_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="397" name="TBx_224_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="534.71,830.00;534.72,837.98;531.72,844.96;527.73,851.44;524.50,858.70;515.10,864.20;506.80,863.70;499.31,863.41;490.34,862.91;482.36,860.42;474.88,858.92;467.40,857.43;460.42,852.94;459.92,845.46;460.42,837.98;467.40,833.49;475.38,832.99;482.40,833.40;489.30,834.50;497.90,834.40;507.80,830.70;516.80,826.30;524.24,821.03;531.72,825.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="396" name="TBx_224_ser001img00019.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="534.65,827.59;535.90,833.82;535.06,840.06;530.91,845.04;526.34,850.03;520.94,853.35;514.70,855.85;507.64,858.34;500.16,860.00;493.93,861.25;487.69,860.83;481.46,858.34;475.23,857.09;470.60,855.20;464.30,852.40;457.78,848.37;458.61,841.30;464.84,838.40;471.07,837.15;477.31,835.90;483.96,833.41;491.00,833.00;497.90,831.70;506.00,830.60;512.30,828.20;517.61,823.44;525.09,823.44;531.32,825.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="395" name="TBx_224_ser001img00018.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="534.50,835.70;526.30,848.70;510.50,859.00;498.23,861.69;487.29,858.95;476.35,856.22;464.73,852.80;454.47,847.33;455.84,837.07;466.78,835.70;477.72,835.70;488.66,837.07;504.40,832.30;515.30,826.10;529.70,823.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="394" name="TBx_224_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="393" name="TBx_224_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="392" name="TBx_224_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="391" name="TBx_224_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="390" name="TBx_224_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="389" name="TBx_224_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="388" name="TBx_224_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="387" name="TBx_224_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="386" name="TBx_224_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="385" name="TBx_224_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="384" name="TBx_224_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="383" name="TBx_224_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="382" name="TBx_224_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="381" name="TBx_224_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="380" name="TBx_224_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="379" name="TBx_224_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="378" name="TBx_224_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="377" name="TBx_223_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="498.93,832.51;497.80,842.10;492.40,846.40;484.60,847.80;477.80,847.30;471.20,846.40;462.43,841.49;463.03,831.92;467.82,823.54;475.60,818.15;485.77,818.15;495.34,819.95" z_order="0">
+    </polygon>
+  </image>
+  <image id="376" name="TBx_223_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="500.60,827.40;498.56,837.40;493.70,844.60;482.50,848.70;474.90,846.60;468.10,845.90;461.94,840.27;463.38,828.78;472.00,820.16;483.48,816.57;494.25,818.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="375" name="TBx_223_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="496.92,832.29;491.43,837.78;490.60,846.40;489.44,853.24;496.40,857.90;501.41,860.22;508.89,860.72;516.37,859.22;523.85,858.72;528.83,852.74;528.33,845.26;522.35,839.77;514.87,836.28;507.39,833.79" z_order="0">
+    </polygon>
+  </image>
+  <image id="374" name="TBx_223_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="518.81,841.56;525.99,850.18;525.99,861.67;515.22,865.26;503.73,865.26;495.12,857.36;492.96,846.59;493.68,835.82;504.45,832.95;515.22,835.82" z_order="0">
+    </polygon>
+  </image>
+  <image id="373" name="TBx_223_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="372" name="TBx_223_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="371" name="TBx_223_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="370" name="TBx_223_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="369" name="TBx_223_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="368" name="TBx_223_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="367" name="TBx_223_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="366" name="TBx_223_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="365" name="TBx_223_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="364" name="TBx_223_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="363" name="TBx_223_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="362" name="TBx_223_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="361" name="TBx_223_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="360" name="TBx_223_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="359" name="TBx_223_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="358" name="TBx_223_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="357" name="TBx_223_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="356" name="TBx_223_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="355" name="TBx_223_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="354" name="TBx_223_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="353" name="TBx_223_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="352" name="TBx_223_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="326" name="TBx_221_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="325" name="TBx_221_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="324" name="TBx_221_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="323" name="TBx_221_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="322" name="TBx_221_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="321" name="TBx_221_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="320" name="TBx_221_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="319" name="TBx_221_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="318" name="TBx_221_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="317" name="TBx_221_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="316" name="TBx_221_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="315" name="TBx_221_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="314" name="TBx_221_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="313" name="TBx_221_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="312" name="TBx_221_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="311" name="TBx_221_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="310" name="TBx_221_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="309" name="TBx_221_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="308" name="TBx_221_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="307" name="TBx_221_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="306" name="TBx_221_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="305" name="TBx_221_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="304" name="TBx_221_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="303" name="TBx_220_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="531.19,833.17;523.41,826.59;514.43,825.99;505.46,826.59;496.48,828.39;488.10,831.98;480.92,838.56;479.13,847.53;487.40,853.10;496.90,853.10;504.26,855.31;514.40,852.40;524.00,851.60;533.00,850.40;538.37,847.53;535.97,838.56" z_order="0">
+    </polygon>
+  </image>
+  <image id="302" name="TBx_220_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="528.29,830.00;513.93,827.85;501.00,827.13;490.23,827.85;479.46,833.59;479.70,841.40;484.40,845.80;491.10,852.10;502.40,853.70;513.90,852.10;525.30,848.80;532.00,845.40;534.10,836.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="301" name="TBx_220_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="300" name="TBx_220_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="299" name="TBx_220_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="298" name="TBx_220_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="297" name="TBx_220_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="296" name="TBx_220_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="295" name="TBx_220_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="294" name="TBx_220_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="293" name="TBx_220_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="292" name="TBx_220_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="291" name="TBx_220_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="290" name="TBx_220_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="289" name="TBx_220_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="288" name="TBx_220_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="287" name="TBx_220_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="286" name="TBx_220_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="285" name="TBx_220_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="284" name="TBx_220_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="283" name="TBx_220_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="282" name="TBx_219_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="552.85,868.99;542.07,869.71;531.30,867.55;520.53,864.68;512.64,856.78;510.48,846.01;516.23,835.24;524.84,828.06;535.61,826.63;546.38,830.93;555.72,837.40;560.03,847.45;561.46,858.22" z_order="0">
+    </polygon>
+  </image>
+  <image id="281" name="TBx_219_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="553.80,868.83;544.83,869.43;535.25,868.83;526.28,867.64;517.30,865.24;508.93,858.66;508.33,849.69;510.12,840.71;515.51,832.93;523.29,826.35;532.26,824.56;541.24,822.76;550.21,824.56;556.79,831.74;562.18,840.11;564.57,849.09;564.57,858.66;558.59,865.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="280" name="TBx_219_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="550.91,868.13;540.14,871.72;529.37,867.41;518.60,863.82;509.26,857.36;507.83,846.59;513.57,837.25;520.75,828.64;530.80,822.89;545.20,823.60;556.70,828.60;563.11,837.97;570.29,846.59;565.27,856.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="279" name="TBx_219_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="278" name="TBx_219_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="277" name="TBx_219_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="276" name="TBx_219_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="690" name="TBx_236_ser001img00026.png" width="1024" height="1072">
+  </image>
+  <image id="689" name="TBx_236_ser001img00025.png" width="1024" height="1072">
+  </image>
+  <image id="688" name="TBx_236_ser001img00024.png" width="1024" height="1072">
+  </image>
+  <image id="687" name="TBx_236_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="520.00,853.90;513.40,859.80;503.80,858.00;494.04,852.33;488.30,843.00;486.14,832.23;494.00,828.20;503.70,831.70;511.60,835.60;517.50,842.80;522.80,848.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="686" name="TBx_236_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="521.85,850.35;521.85,850.35;516.47,858.72;507.49,860.52;498.52,855.73;490.10,850.80;485.95,843.17;487.74,834.19;495.52,828.80;503.40,832.80;513.60,837.60;522.40,839.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="685" name="TBx_236_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="520.20,849.20;520.90,855.60;512.50,861.50;500.50,860.10;490.90,851.60;486.80,840.80;494.60,832.20;504.60,832.30;510.30,837.90;516.20,844.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="684" name="TBx_236_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="683" name="TBx_236_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="682" name="TBx_236_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="681" name="TBx_236_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="680" name="TBx_236_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="679" name="TBx_236_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="678" name="TBx_236_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="677" name="TBx_236_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="676" name="TBx_236_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="675" name="TBx_236_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="674" name="TBx_236_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="673" name="TBx_236_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="672" name="TBx_236_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="671" name="TBx_236_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="670" name="TBx_236_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="669" name="TBx_236_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="668" name="TBx_236_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="667" name="TBx_236_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="666" name="TBx_236_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="665" name="TBx_236_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="664" name="TBx_235_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="663" name="TBx_235_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="662" name="TBx_235_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="415.81,772.36;422.53,772.36;428.87,772.36;434.80,773.55;442.72,775.53;450.63,778.70;454.59,783.44;456.17,789.38;455.78,795.71;449.84,798.48;444.30,796.11;439.55,791.36;434.01,787.40;427.68,784.24;421.35,781.86;415.02,781.86;408.68,781.86;405.52,776.72;411.06,773.16" z_order="0">
+    </polygon>
+  </image>
+  <image id="661" name="TBx_235_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="470.90,809.90;464.40,811.70;456.40,809.20;452.00,807.60;443.00,803.70;437.20,800.20;433.00,796.20;428.63,788.83;435.81,782.85;444.18,779.26;453.76,779.86;463.93,785.24;468.12,793.62;469.91,802.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="660" name="TBx_235_ser001img00019.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="471.38,800.78;465.30,803.10;453.80,800.50;445.80,794.20;437.40,790.50;426.57,786.13;433.00,774.80;446.90,773.60;458.80,776.30;471.10,781.90;473.10,791.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="659" name="TBx_235_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="658" name="TBx_235_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="657" name="TBx_235_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="656" name="TBx_235_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="655" name="TBx_235_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="654" name="TBx_235_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="653" name="TBx_235_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="652" name="TBx_235_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="651" name="TBx_235_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="650" name="TBx_235_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="649" name="TBx_235_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="648" name="TBx_235_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="647" name="TBx_235_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="646" name="TBx_235_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="645" name="TBx_235_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="644" name="TBx_235_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="643" name="TBx_235_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="642" name="TBx_235_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="641" name="TBx_234_ser001img00026.png" width="1024" height="1072">
+  </image>
+  <image id="640" name="TBx_234_ser001img00025.png" width="1024" height="1072">
+  </image>
+  <image id="639" name="TBx_234_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="502.76,836.94;493.19,836.94;484.81,830.96;475.84,827.37;469.85,820.19;474.04,811.81;482.42,808.22;491.39,806.43;501.60,807.60;510.50,813.00;512.90,819.00;512.90,824.40;511.70,828.60;508.10,831.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="638" name="TBx_234_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="511.34,836.46;499.86,841.49;486.93,840.77;476.88,836.46;474.01,824.26;474.72,813.49;484.78,807.02;495.55,806.31;506.32,808.46;514.93,815.64;517.09,826.41" z_order="0">
+    </polygon>
+  </image>
+  <image id="637" name="TBx_234_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="512.68,833.79;497.79,847.43;480.42,836.27;464.29,822.62;465.53,804.01;482.90,795.32;505.24,795.32;521.37,806.49;523.85,825.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="636" name="TBx_234_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="635" name="TBx_234_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="634" name="TBx_234_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="633" name="TBx_234_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="632" name="TBx_234_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="631" name="TBx_234_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="630" name="TBx_234_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="629" name="TBx_234_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="628" name="TBx_234_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="627" name="TBx_234_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="626" name="TBx_234_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="625" name="TBx_234_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="624" name="TBx_234_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="623" name="TBx_234_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="622" name="TBx_234_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="621" name="TBx_234_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="620" name="TBx_234_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="619" name="TBx_234_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="618" name="TBx_234_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="617" name="TBx_234_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="616" name="TBx_234_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="615" name="TBx_233_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="614" name="TBx_233_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="613" name="TBx_233_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="480.62,808.01;476.63,815.49;468.65,815.49;461.17,815.99;453.69,815.49;451.20,808.01;456.68,802.03;464.16,799.04;471.64,798.04;479.12,802.03" z_order="0">
+    </polygon>
+  </image>
+  <image id="612" name="TBx_233_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="479.01,802.84;476.02,811.81;467.04,814.80;457.47,814.80;453.88,806.43;459.86,799.25;470.03,798.65;479.01,799.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="611" name="TBx_233_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="610" name="TBx_233_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="609" name="TBx_233_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="608" name="TBx_233_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="607" name="TBx_233_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="606" name="TBx_233_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="605" name="TBx_233_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="604" name="TBx_233_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="603" name="TBx_233_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="602" name="TBx_233_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="601" name="TBx_233_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="600" name="TBx_233_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="599" name="TBx_233_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="598" name="TBx_233_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="597" name="TBx_233_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="596" name="TBx_233_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="595" name="TBx_233_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="594" name="TBx_233_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="593" name="TBx_233_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="592" name="TBx_232_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="591" name="TBx_232_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="590" name="TBx_232_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="550.15,849.49;550.15,856.55;545.58,861.96;539.34,864.03;532.70,864.03;525.63,864.03;520.65,859.46;516.91,853.23;518.15,847.00;523.97,844.09;530.62,842.84;537.68,841.59;545.16,842.01;550.56,845.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="589" name="TBx_232_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="544.53,858.61;533.59,859.30;523.33,862.03;514.44,855.88;522.65,849.04;533.59,845.62;544.53,844.94;555.47,842.88;558.21,853.14;550.68,857.24" z_order="0">
+    </polygon>
+  </image>
+  <image id="588" name="TBx_232_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="587" name="TBx_232_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="586" name="TBx_232_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="585" name="TBx_232_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="584" name="TBx_232_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="583" name="TBx_232_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="582" name="TBx_232_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="581" name="TBx_232_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="580" name="TBx_232_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="579" name="TBx_232_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="578" name="TBx_232_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="577" name="TBx_232_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="576" name="TBx_232_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="575" name="TBx_232_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="574" name="TBx_232_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="573" name="TBx_232_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="572" name="TBx_232_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="571" name="TBx_232_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="570" name="TBx_232_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="569" name="TBx_231_ser001img00030.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="499.64,804.30;496.05,793.53;485.28,791.37;478.10,799.99;482.41,810.04;493.18,808.60" z_order="0">
+    </polygon>
+    <polygon label="Cancer" occluded="0" source="manual" points="528.08,872.55;521.44,875.04;515.62,872.55;513.96,866.32;517.70,860.92;523.93,858.84;528.91,863.41;529.33,869.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="568" name="TBx_231_ser001img00029.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="525.50,873.10;521.50,873.08;514.02,872.58;514.02,864.11;519.51,858.12;526.99,861.12;528.98,868.60" z_order="0">
+    </polygon>
+    <polygon label="Cancer" occluded="0" source="manual" points="496.07,805.77;497.57,798.29;491.58,793.30;484.10,790.31;477.62,794.80;476.13,802.28;478.12,809.76;486.60,809.76;494.08,808.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="275" name="TBx_219_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="274" name="TBx_219_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="273" name="TBx_219_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="272" name="TBx_219_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="271" name="TBx_219_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="270" name="TBx_219_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="269" name="TBx_219_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="268" name="TBx_219_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="267" name="TBx_219_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="266" name="TBx_219_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="265" name="TBx_219_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="264" name="TBx_219_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="263" name="TBx_219_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="262" name="TBx_219_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="261" name="TBx_219_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="260" name="TBx_219_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="259" name="TBx_219_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="258" name="TBx_219_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="257" name="TBx_219_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="256" name="TBx_218_ser001img00030.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="479.15,806.57;477.79,817.51;469.58,824.35;458.64,822.98;449.75,816.83;446.33,806.57;444.96,795.63;449.07,786.06;460.01,784.01;470.95,788.79;479.15,795.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="255" name="TBx_218_ser001img00029.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="477.03,801.92;478.40,812.18;471.56,820.39;460.62,823.12;452.42,815.60;449.68,805.34;443.53,796.45;445.58,786.19;456.52,784.83;467.46,785.51;475.67,793.03" z_order="0">
+    </polygon>
+  </image>
+  <image id="254" name="TBx_218_ser001img00028.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="473.50,788.00;473.50,788.00;479.25,798.05;479.97,808.82;473.50,819.59;462.73,823.90;451.25,823.90;446.20,813.80;443.35,803.08;446.94,792.31;458.43,788.00;469.20,787.28" z_order="0">
+    </polygon>
+  </image>
+  <image id="253" name="TBx_218_ser001img00027.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="500.49,824.44;507.67,830.42;507.67,840.59;501.90,845.20;493.70,846.80;484.30,848.60;475.40,849.00;469.90,847.60;462.20,845.20;455.61,840.59;459.20,832.22;468.18,826.83;477.75,824.44;486.73,823.24;496.90,824.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="252" name="TBx_218_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="505.74,828.49;504.31,839.26;495.69,847.16;484.92,849.32;474.40,848.40;465.30,845.50;454.50,843.40;448.30,836.39;459.00,828.70;468.20,828.00;478.46,823.47;489.23,822.03;500.00,821.31" z_order="0">
+    </polygon>
+  </image>
+  <image id="251" name="TBx_218_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="525.32,829.82;528.91,838.20;525.10,845.30;517.70,846.00;508.20,845.00;501.50,847.30;491.70,847.20;485.83,840.59;492.41,831.02;500.19,825.63;510.70,829.00;522.93,825.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="250" name="TBx_218_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="534.71,837.05;526.20,844.30;519.50,847.50;505.10,848.10;490.80,849.80;487.60,844.80;487.90,833.60;500.24,829.30;513.17,828.44;526.95,831.02" z_order="0">
+    </polygon>
+  </image>
+  <image id="249" name="TBx_218_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="501.56,810.94;492.44,810.94;483.33,809.80;475.35,813.79;466.80,816.64;458.25,817.78;450.27,814.36;450.27,805.24;454.83,797.83;461.67,791.56;470.79,789.28;482.19,789.28;490.16,793.27;498.71,794.98;503.27,802.39" z_order="0">
+    </polygon>
+  </image>
+  <image id="248" name="TBx_218_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="499.58,801.17;501.00,808.77;493.88,810.67;484.38,810.67;476.31,809.72;470.13,813.52;463.49,818.27;455.41,816.84;451.14,810.67;453.04,803.55;458.74,798.32;464.91,794.53;472.03,792.63;480.11,792.15;487.70,792.15;496.73,794.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="247" name="TBx_218_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="246" name="TBx_218_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="245" name="TBx_218_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="244" name="TBx_218_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="243" name="TBx_218_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="242" name="TBx_218_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="241" name="TBx_218_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="240" name="TBx_218_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="239" name="TBx_218_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="238" name="TBx_218_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="237" name="TBx_218_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="236" name="TBx_218_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="235" name="TBx_218_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="234" name="TBx_218_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="233" name="TBx_218_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="232" name="TBx_218_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="231" name="TBx_218_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="230" name="TBx_218_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="229" name="TBx_218_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="228" name="TBx_218_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="227" name="TBx_218_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="226" name="TBx_217_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="481.46,810.55;474.98,814.54;467.50,817.54;460.02,818.03;451.54,818.03;444.07,817.54;442.07,810.06;445.56,803.08;454.04,799.59;462.02,799.59;469.49,800.08;476.97,803.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="225" name="TBx_217_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="476.53,808.21;473.53,815.74;466.05,819.73;458.58,820.18;450.10,818.68;443.62,813.70;440.62,806.72;445.61,800.78;452.59,795.80;460.57,795.80;468.05,796.29;475.03,799.29;476.53,807.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="224" name="TBx_217_ser001img00024.png" width="1024" height="1072">
+  </image>
+  <image id="223" name="TBx_217_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="222" name="TBx_217_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="221" name="TBx_217_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="220" name="TBx_217_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="219" name="TBx_217_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="218" name="TBx_217_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="217" name="TBx_217_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="216" name="TBx_217_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="215" name="TBx_217_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="214" name="TBx_217_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="213" name="TBx_217_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="212" name="TBx_217_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="211" name="TBx_217_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="210" name="TBx_217_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="209" name="TBx_217_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="208" name="TBx_217_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="207" name="TBx_217_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="206" name="TBx_217_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="205" name="TBx_217_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="204" name="TBx_217_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="203" name="TBx_217_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="202" name="TBx_217_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="201" name="TBx_217_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="200" name="TBx_216_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="500.37,808.64;496.18,817.62;489.00,823.60;480.62,828.39;471.65,830.78;462.67,827.19;453.70,823.00;451.90,814.03;453.70,805.05;462.08,799.67;471.05,797.87;480.62,797.87;489.60,798.47;497.98,802.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="199" name="TBx_216_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="504.56,808.10;499.17,815.88;491.39,821.27;482.42,823.06;473.44,824.86;463.27,824.86;454.30,823.06;450.71,814.09;450.71,804.51;457.29,797.33;469.85,797.33;478.83,795.54;487.80,796.13;496.78,799.72" z_order="0">
+    </polygon>
+  </image>
+  <image id="198" name="TBx_216_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="503.36,808.34;501.57,817.32;494.39,823.30;485.41,826.89;475.24,826.89;465.67,826.89;456.69,825.10;451.90,817.32;453.10,808.34;458.49,799.96;467.46,796.37;476.44,795.78;486.01,795.78;494.39,801.16;503.96,804.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="197" name="TBx_216_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="533.40,847.20;524.40,847.20;515.90,844.90;509.22,847.24;504.47,841.54;503.99,834.42;510.17,830.14;518.71,832.52;527.26,835.84;531.06,842.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="196" name="TBx_216_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="500.08,833.04;511.70,831.67;521.96,832.35;532.22,837.82;534.96,848.08;524.70,850.82;514.44,851.50;503.50,848.76;498.03,839.87" z_order="0">
+    </polygon>
+  </image>
+  <image id="195" name="TBx_216_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="194" name="TBx_216_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="193" name="TBx_216_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="192" name="TBx_216_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="191" name="TBx_216_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="190" name="TBx_216_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="189" name="TBx_216_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="188" name="TBx_216_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="187" name="TBx_216_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="186" name="TBx_216_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="185" name="TBx_216_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="184" name="TBx_216_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="183" name="TBx_216_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="182" name="TBx_216_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="181" name="TBx_216_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="180" name="TBx_216_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="179" name="TBx_216_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="178" name="TBx_216_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="177" name="TBx_216_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="176" name="TBx_216_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="175" name="TBx_216_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="174" name="TBx_215_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="505.74,826.05;496.41,833.95;484.20,833.95;473.43,831.80;464.10,825.33;462.66,814.56;469.12,804.51;479.89,802.36;490.66,803.79;501.43,805.95;507.18,815.28" z_order="0">
+    </polygon>
+  </image>
+  <image id="173" name="TBx_215_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="503.52,827.92;494.90,835.82;483.41,835.82;473.36,831.51;466.18,821.46;466.90,810.69;476.95,803.51;489.87,803.51;499.21,809.97;507.11,818.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="172" name="TBx_215_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="504.38,810.00;512.13,822.06;502.66,832.40;490.60,834.30;475.90,831.80;463.88,832.40;460.44,819.48;468.19,807.41;481.98,801.38;496.62,804.83" z_order="0">
+    </polygon>
+  </image>
+  <image id="171" name="TBx_215_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="170" name="TBx_215_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="169" name="TBx_215_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="168" name="TBx_215_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="167" name="TBx_215_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="166" name="TBx_215_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="165" name="TBx_215_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="164" name="TBx_215_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="163" name="TBx_215_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="162" name="TBx_215_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="161" name="TBx_215_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="160" name="TBx_215_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="159" name="TBx_215_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="158" name="TBx_215_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="157" name="TBx_215_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="156" name="TBx_215_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="155" name="TBx_215_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="154" name="TBx_215_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="153" name="TBx_215_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="152" name="TBx_214_ser001img00028.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="418.22,745.63;407.45,749.94;406.73,760.71;406.73,773.64;411.04,783.69;421.81,788.72;430.42,781.54;433.29,770.76;434.73,759.99;433.29,749.22" z_order="0">
+    </polygon>
+  </image>
+  <image id="151" name="TBx_214_ser001img00027.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="421.78,745.83;414.30,744.34;406.82,747.83;403.83,754.81;402.83,762.29;402.83,770.27;402.83,778.74;405.32,786.22;408.81,793.70;415.79,796.69;423.27,793.70;430.75,790.71;434.24,783.73;435.74,776.25;435.74,768.27;435.24,760.79;434.24,753.31;430.75,746.33" z_order="0">
+    </polygon>
+  </image>
+  <image id="150" name="TBx_214_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="413.56,744.34;426.49,747.79;429.93,760.71;431.66,773.64;429.07,786.56;419.59,796.04;409.26,786.56;408.39,773.64;406.67,760.71;405.81,747.79" z_order="0">
+    </polygon>
+  </image>
+  <image id="149" name="TBx_214_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="405.41,739.47;416.18,741.27;418.58,750.24;419.77,759.22;419.77,769.39;417.98,778.36;413.19,786.14;407.21,794.52;398.23,791.53;395.24,782.55;392.85,772.98;391.65,764.00;391.65,753.83;394.64,744.86" z_order="0">
+    </polygon>
+  </image>
+  <image id="148" name="TBx_214_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="405.29,739.60;415.63,748.22;418.22,761.14;421.00,773.20;413.91,786.13;402.71,794.75;394.95,783.55;393.23,770.62;392.30,756.70;395.81,743.05" z_order="0">
+    </polygon>
+  </image>
+  <image id="147" name="TBx_214_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="407.23,744.41;412.97,753.75;415.85,764.52;415.85,776.72;411.54,787.49;402.92,794.67;392.15,790.37;387.84,779.60;387.84,768.11;392.15,758.06;393.59,747.29;404.36,742.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="146" name="TBx_214_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="145" name="TBx_214_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="144" name="TBx_214_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="143" name="TBx_214_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="142" name="TBx_214_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="141" name="TBx_214_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="140" name="TBx_214_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="139" name="TBx_214_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="138" name="TBx_214_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="137" name="TBx_214_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="136" name="TBx_214_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="117" name="TBx_213_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="116" name="TBx_213_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="115" name="TBx_213_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="114" name="TBx_213_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="113" name="TBx_213_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="112" name="TBx_213_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="111" name="TBx_213_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="110" name="TBx_213_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="109" name="TBx_213_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="108" name="TBx_213_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="107" name="TBx_213_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="106" name="TBx_213_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="105" name="TBx_213_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="104" name="TBx_213_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="103" name="TBx_213_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="102" name="TBx_213_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="101" name="TBx_213_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="100" name="TBx_212_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="494.56,796.81;486.80,808.02;473.88,813.19;460.95,814.91;448.03,809.74;435.10,808.02;421.32,800.26;409.26,789.06;398.92,779.58;385.99,773.55;377.38,763.21;367.90,753.73;359.28,740.81;348.94,730.47;338.60,721.85;333.43,709.79;336.88,696.87;349.80,693.42;365.31,696.87;379.96,702.04;392.88,708.93;401.50,719.27;413.56,727.02;427.35,727.88;440.27,732.19;445.44,745.12;455.78,753.73;467.85,758.90;480.77,764.07;485.94,776.14;493.69,787.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="99" name="TBx_212_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="486.62,791.60;469.26,804.01;449.40,806.49;430.79,800.29;413.42,789.12;393.57,777.95;374.96,765.54;357.59,751.90;345.18,737.01;335.26,720.88;335.26,699.79;356.35,694.82;374.96,696.06;393.57,705.99;412.18,710.95;428.31,720.88;445.68,729.56;461.81,743.21;479.18,755.62;486.63,772.99;482.90,791.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="98" name="TBx_212_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="486.62,791.60;471.74,804.01;449.40,802.77;428.31,796.56;409.70,789.12;383.64,784.16;367.51,772.99;350.14,759.34;341.46,740.73;338.98,722.12;337.74,703.51;356.35,694.82;374.96,698.54;397.29,705.99;419.63,713.43;435.76,724.60;454.37,740.73;471.74,755.62;487.87,770.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="97" name="TBx_212_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="96" name="TBx_212_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="95" name="TBx_212_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="94" name="TBx_212_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="93" name="TBx_212_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="92" name="TBx_212_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="91" name="TBx_212_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="90" name="TBx_212_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="89" name="TBx_212_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="88" name="TBx_212_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="87" name="TBx_212_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="86" name="TBx_212_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="85" name="TBx_212_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="84" name="TBx_212_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="83" name="TBx_212_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="82" name="TBx_212_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="81" name="TBx_212_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="80" name="TBx_212_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="79" name="TBx_212_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="78" name="TBx_212_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="77" name="TBx_211_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="537.00,859.87;529.40,859.87;522.28,858.44;515.63,854.65;508.50,852.27;502.81,847.52;497.11,842.77;495.21,835.18;500.91,829.48;508.03,828.53;515.63,830.43;521.33,835.18;527.97,838.02;534.62,841.82;539.37,847.52;539.37,855.12" z_order="0">
+    </polygon>
+  </image>
+  <image id="76" name="TBx_211_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="537.76,858.61;527.50,859.30;517.24,857.93;507.67,853.14;498.10,847.67;494.68,837.41;503.57,831.26;513.82,834.68;522.71,840.15;532.97,842.88;539.13,852.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="75" name="TBx_211_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="539.41,853.87;527.93,861.25;515.62,857.97;502.49,857.15;495.10,849.80;491.00,838.30;496.74,830.07;509.87,834.17;522.18,839.92;534.49,844.02" z_order="0">
+    </polygon>
+  </image>
+  <image id="74" name="TBx_211_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="73" name="TBx_211_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="72" name="TBx_211_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="71" name="TBx_211_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="70" name="TBx_211_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="69" name="TBx_211_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="68" name="TBx_211_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="67" name="TBx_211_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="66" name="TBx_211_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="65" name="TBx_211_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="64" name="TBx_211_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="63" name="TBx_211_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="62" name="TBx_211_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="61" name="TBx_211_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="60" name="TBx_211_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="59" name="TBx_211_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="58" name="TBx_211_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="57" name="TBx_211_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="56" name="TBx_211_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="55" name="TBx_211_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="54" name="TBx_211_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="53" name="TBx_210_ser001img00027.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="515.15,869.07;506.17,874.46;498.99,867.88;490.02,860.70;482.84,854.71;473.86,847.53;466.68,840.35;468.48,831.38;476.85,825.99;485.83,826.59;494.81,831.38;501.99,837.36;507.97,844.54;514.55,851.12;516.35,860.10;516.94,869.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="52" name="TBx_210_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="514.40,865.40;514.79,857.65;511.20,846.87;502.58,839.69;493.25,833.95;483.20,827.49;472.43,823.18;467.40,833.95;472.43,844.00;479.70,852.30;490.70,861.20;498.50,866.60;506.90,870.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="51" name="TBx_210_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="518.88,867.84;509.31,872.63;499.74,867.84;490.16,861.01;481.96,854.17;473.07,848.70;466.91,839.81;475.90,831.00;486.75,837.07;497.00,840.49;505.21,847.33;513.41,854.17;517.52,863.74" z_order="0">
+    </polygon>
+  </image>
+  <image id="50" name="TBx_210_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="524.63,876.68;518.30,876.68;511.97,874.70;506.43,871.54;500.89,868.37;495.35,865.20;489.81,861.64;486.64,856.10;485.06,849.77;487.44,844.23;493.77,843.44;499.31,846.21;504.85,850.56;510.39,854.52;516.72,857.29;521.07,861.64;526.22,865.20;529.38,870.35" z_order="0">
+    </polygon>
+  </image>
+  <image id="49" name="TBx_210_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="526.18,878.42;521.24,878.09;516.95,875.45;512.33,873.14;507.72,870.51;502.77,868.86;498.48,866.22;493.87,863.58;488.59,861.60;485.62,857.32;484.30,852.37;483.97,847.09;488.59,845.11;493.54,844.12;498.48,846.43;502.44,849.73;506.40,853.36;512.00,857.32;516.95,859.62;522.23,862.26;526.18,865.56;529.15,870.18;528.82,875.45" z_order="0">
+    </polygon>
+  </image>
+  <image id="48" name="TBx_210_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="538.17,871.73;536.98,878.07;530.25,878.07;524.32,876.88;518.38,876.48;512.84,873.32;507.30,870.94;501.76,868.57;496.22,865.40;493.85,859.86;497.80,855.11;503.74,854.32;510.07,855.11;514.82,859.07;520.76,860.65;527.09,861.44;532.63,863.82;536.59,868.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="47" name="TBx_210_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="46" name="TBx_210_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="45" name="TBx_210_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="44" name="TBx_210_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="43" name="TBx_210_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="42" name="TBx_210_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="351" name="TBx_222_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="447.73,759.06;449.16,769.83;447.73,780.60;440.55,789.22;430.49,796.40;419.72,792.09;415.42,781.32;419.72,769.83;429.78,761.93;440.55,759.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="350" name="TBx_222_ser001img00021.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="443.63,756.19;447.22,766.96;447.94,777.73;445.07,788.50;434.30,794.24;423.53,792.09;417.79,782.04;417.79,770.55;424.25,760.50;434.30,755.47" z_order="0">
+    </polygon>
+  </image>
+  <image id="349" name="TBx_222_ser001img00020.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="443.60,751.10;449.67,758.90;451.39,771.83;441.91,782.17;428.99,787.34;417.79,780.44;413.48,767.52;421.23,756.32;434.16,752.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="348" name="TBx_222_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="347" name="TBx_222_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="346" name="TBx_222_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="345" name="TBx_222_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="344" name="TBx_222_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="343" name="TBx_222_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="342" name="TBx_222_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="341" name="TBx_222_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="340" name="TBx_222_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="339" name="TBx_222_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="338" name="TBx_222_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="337" name="TBx_222_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="336" name="TBx_222_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="335" name="TBx_222_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="334" name="TBx_222_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="333" name="TBx_222_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="332" name="TBx_222_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="331" name="TBx_222_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="330" name="TBx_222_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="329" name="TBx_221_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="503.54,820.43;499.95,828.80;489.18,830.60;480.21,829.40;471.83,825.81;464.05,818.63;456.87,810.85;455.07,801.88;458.66,793.50;466.44,788.12;476.00,785.10;486.20,783.30;496.36,787.52;502.10,795.00;507.13,800.68;507.13,811.45;505.93,820.43" z_order="0">
+    </polygon>
+  </image>
+  <image id="328" name="TBx_221_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="507.91,815.43;496.71,823.18;483.79,826.63;469.14,826.63;457.94,818.87;452.77,805.95;448.46,793.02;447.60,780.10;457.94,771.48;470.86,774.93;483.79,777.51;496.71,780.10;505.33,790.44;507.91,803.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="327" name="TBx_221_ser001img00024.png" width="1024" height="1072">
+  </image>
+  <image id="135" name="TBx_214_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="134" name="TBx_214_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="133" name="TBx_214_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="132" name="TBx_214_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="131" name="TBx_214_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="130" name="TBx_214_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="129" name="TBx_214_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="128" name="TBx_214_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="127" name="TBx_214_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="126" name="TBx_214_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="125" name="TBx_214_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="124" name="TBx_213_ser001img00024.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="458.43,785.72;458.43,785.72;456.03,794.70;447.66,800.08;438.68,801.88;430.90,796.49;424.32,789.91;420.13,780.94;420.73,771.96;427.91,765.98;436.30,766.00;445.20,768.50;454.20,772.30;460.22,778.54" z_order="0">
+    </polygon>
+  </image>
+  <image id="123" name="TBx_213_ser001img00023.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="457.21,793.10;448.59,800.28;437.10,801.71;427.05,795.97;418.43,788.79;417.71,776.58;424.89,767.96;433.51,760.78;442.90,762.70;452.90,765.81;460.79,773.71;461.51,784.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="122" name="TBx_213_ser001img00022.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="464.66,783.72;458.63,795.78;448.29,806.12;435.36,804.40;423.30,799.23;414.68,788.89;417.27,775.96;425.88,765.62;438.81,764.76;451.73,768.21;461.21,780.27" z_order="0">
+    </polygon>
+  </image>
+  <image id="121" name="TBx_213_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="120" name="TBx_213_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="119" name="TBx_213_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="118" name="TBx_213_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="41" name="TBx_210_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="40" name="TBx_210_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="39" name="TBx_210_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="38" name="TBx_210_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="37" name="TBx_210_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="36" name="TBx_210_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="35" name="TBx_210_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="34" name="TBx_210_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="33" name="TBx_210_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="32" name="TBx_210_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="31" name="TBx_210_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="30" name="TBx_210_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="29" name="TBx_210_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="28" name="TBx_210_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="27" name="TBx_210_ser001img00001.png" width="1024" height="1072">
+  </image>
+  <image id="26" name="TBx_209_ser001img00027.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="506.03,850.54;496.00,852.30;485.60,850.40;476.00,847.00;466.60,841.00;455.70,835.30;450.02,826.84;452.18,816.07;462.95,811.76;473.72,807.46;481.10,811.20;490.70,815.60;498.60,820.50;507.50,828.00;508.90,837.60;510.34,847.66" z_order="0">
+    </polygon>
+  </image>
+  <image id="25" name="TBx_209_ser001img00026.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="512.10,853.22;501.93,856.21;492.95,855.01;484.10,851.60;475.70,848.10;467.90,844.70;461.00,840.50;454.50,835.30;449.27,826.29;456.45,818.51;464.23,813.73;473.20,811.33;483.30,814.70;488.80,818.50;496.70,824.40;506.60,828.10;513.89,835.27;516.29,844.24;512.10,852.62" z_order="0">
+    </polygon>
+  </image>
+  <image id="24" name="TBx_209_ser001img00025.png" width="1024" height="1072">
+    <polygon label="Cancer" occluded="0" source="manual" points="500.08,830.37;500.08,830.37;506.92,838.58;504.87,849.52;494.61,853.62;483.67,850.20;472.73,846.78;465.89,838.58;457.68,831.74;453.58,822.16;460.42,812.59;472.73,815.33;482.30,819.43;491.19,825.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="23" name="TBx_209_ser001img00024.png" width="1024" height="1072">
+  </image>
+  <image id="22" name="TBx_209_ser001img00023.png" width="1024" height="1072">
+  </image>
+  <image id="21" name="TBx_209_ser001img00022.png" width="1024" height="1072">
+  </image>
+  <image id="20" name="TBx_209_ser001img00021.png" width="1024" height="1072">
+  </image>
+  <image id="19" name="TBx_209_ser001img00020.png" width="1024" height="1072">
+  </image>
+  <image id="18" name="TBx_209_ser001img00019.png" width="1024" height="1072">
+  </image>
+  <image id="17" name="TBx_209_ser001img00018.png" width="1024" height="1072">
+  </image>
+  <image id="16" name="TBx_209_ser001img00017.png" width="1024" height="1072">
+  </image>
+  <image id="15" name="TBx_209_ser001img00016.png" width="1024" height="1072">
+  </image>
+  <image id="14" name="TBx_209_ser001img00015.png" width="1024" height="1072">
+  </image>
+  <image id="13" name="TBx_209_ser001img00014.png" width="1024" height="1072">
+  </image>
+  <image id="12" name="TBx_209_ser001img00013.png" width="1024" height="1072">
+  </image>
+  <image id="11" name="TBx_209_ser001img00012.png" width="1024" height="1072">
+  </image>
+  <image id="10" name="TBx_209_ser001img00011.png" width="1024" height="1072">
+  </image>
+  <image id="9" name="TBx_209_ser001img00010.png" width="1024" height="1072">
+  </image>
+  <image id="8" name="TBx_209_ser001img00009.png" width="1024" height="1072">
+  </image>
+  <image id="7" name="TBx_209_ser001img00008.png" width="1024" height="1072">
+  </image>
+  <image id="6" name="TBx_209_ser001img00007.png" width="1024" height="1072">
+  </image>
+  <image id="5" name="TBx_209_ser001img00006.png" width="1024" height="1072">
+  </image>
+  <image id="4" name="TBx_209_ser001img00005.png" width="1024" height="1072">
+  </image>
+  <image id="3" name="TBx_209_ser001img00004.png" width="1024" height="1072">
+  </image>
+  <image id="2" name="TBx_209_ser001img00003.png" width="1024" height="1072">
+  </image>
+  <image id="1" name="TBx_209_ser001img00002.png" width="1024" height="1072">
+  </image>
+  <image id="0" name="TBx_209_ser001img00001.png" width="1024" height="1072">
+  </image>
+</annotations>
