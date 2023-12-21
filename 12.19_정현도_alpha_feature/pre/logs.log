@@ -9917,3 +9917,1893 @@ See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more in
 2023-12-19 18:04:26,513:INFO:Gradient Boosting Classifier Imported successfully
 2023-12-19 18:04:26,521:INFO:Starting cross validation
 2023-12-19 18:04:26,523:INFO:Cross validating with StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), n_jobs=1
+2023-12-19 18:04:27,179:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:27,857:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:28,551:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:29,225:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:29,859:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:29,865:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2023-12-19 18:04:29,869:INFO:Calculating mean and std
+2023-12-19 18:04:29,870:INFO:Creating metrics dataframe
+2023-12-19 18:04:29,872:INFO:Uploading results into container
+2023-12-19 18:04:29,872:INFO:Uploading model into container now
+2023-12-19 18:04:29,873:INFO:_master_model_container: 10
+2023-12-19 18:04:29,873:INFO:_display_container: 2
+2023-12-19 18:04:29,873:INFO:GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=3457, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)
+2023-12-19 18:04:29,873:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:29,945:INFO:SubProcess create_model() end ==================================
+2023-12-19 18:04:29,945:INFO:Creating metrics dataframe
+2023-12-19 18:04:29,957:INFO:Initializing Linear Discriminant Analysis
+2023-12-19 18:04:29,957:INFO:Total runtime is 0.12681150436401367 minutes
+2023-12-19 18:04:29,961:INFO:SubProcess create_model() called ==================================
+2023-12-19 18:04:29,961:INFO:Initializing create_model()
+2023-12-19 18:04:29,961:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=lda, fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001A2C905DCD0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:29,961:INFO:Checking exceptions
+2023-12-19 18:04:29,961:INFO:Importing libraries
+2023-12-19 18:04:29,961:INFO:Copying training dataset
+2023-12-19 18:04:29,964:INFO:Defining folds
+2023-12-19 18:04:29,964:INFO:Declaring metric variables
+2023-12-19 18:04:29,966:INFO:Importing untrained model
+2023-12-19 18:04:29,970:INFO:Linear Discriminant Analysis Imported successfully
+2023-12-19 18:04:29,978:INFO:Starting cross validation
+2023-12-19 18:04:29,979:INFO:Cross validating with StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), n_jobs=1
+2023-12-19 18:04:30,007:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,043:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,077:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,113:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,147:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,156:INFO:Calculating mean and std
+2023-12-19 18:04:30,156:INFO:Creating metrics dataframe
+2023-12-19 18:04:30,159:INFO:Uploading results into container
+2023-12-19 18:04:30,160:INFO:Uploading model into container now
+2023-12-19 18:04:30,160:INFO:_master_model_container: 11
+2023-12-19 18:04:30,160:INFO:_display_container: 2
+2023-12-19 18:04:30,161:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)
+2023-12-19 18:04:30,161:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:30,227:INFO:SubProcess create_model() end ==================================
+2023-12-19 18:04:30,227:INFO:Creating metrics dataframe
+2023-12-19 18:04:30,236:INFO:Initializing Extra Trees Classifier
+2023-12-19 18:04:30,236:INFO:Total runtime is 0.13146828015645345 minutes
+2023-12-19 18:04:30,239:INFO:SubProcess create_model() called ==================================
+2023-12-19 18:04:30,240:INFO:Initializing create_model()
+2023-12-19 18:04:30,240:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=et, fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001A2C905DCD0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:30,240:INFO:Checking exceptions
+2023-12-19 18:04:30,240:INFO:Importing libraries
+2023-12-19 18:04:30,240:INFO:Copying training dataset
+2023-12-19 18:04:30,243:INFO:Defining folds
+2023-12-19 18:04:30,243:INFO:Declaring metric variables
+2023-12-19 18:04:30,246:INFO:Importing untrained model
+2023-12-19 18:04:30,248:INFO:Extra Trees Classifier Imported successfully
+2023-12-19 18:04:30,255:INFO:Starting cross validation
+2023-12-19 18:04:30,257:INFO:Cross validating with StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), n_jobs=1
+2023-12-19 18:04:30,381:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,557:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,760:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:30,963:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:31,144:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:31,209:INFO:Calculating mean and std
+2023-12-19 18:04:31,210:INFO:Creating metrics dataframe
+2023-12-19 18:04:31,212:INFO:Uploading results into container
+2023-12-19 18:04:31,212:INFO:Uploading model into container now
+2023-12-19 18:04:31,213:INFO:_master_model_container: 12
+2023-12-19 18:04:31,213:INFO:_display_container: 2
+2023-12-19 18:04:31,213:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='sqrt',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     n_estimators=100, n_jobs=-1, oob_score=False,
+                     random_state=3457, verbose=0, warm_start=False)
+2023-12-19 18:04:31,213:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:31,280:INFO:SubProcess create_model() end ==================================
+2023-12-19 18:04:31,280:INFO:Creating metrics dataframe
+2023-12-19 18:04:31,291:INFO:Initializing Light Gradient Boosting Machine
+2023-12-19 18:04:31,291:INFO:Total runtime is 0.14906057119369506 minutes
+2023-12-19 18:04:31,295:INFO:SubProcess create_model() called ==================================
+2023-12-19 18:04:31,295:INFO:Initializing create_model()
+2023-12-19 18:04:31,295:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=lightgbm, fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001A2C905DCD0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:31,295:INFO:Checking exceptions
+2023-12-19 18:04:31,295:INFO:Importing libraries
+2023-12-19 18:04:31,295:INFO:Copying training dataset
+2023-12-19 18:04:31,298:INFO:Defining folds
+2023-12-19 18:04:31,298:INFO:Declaring metric variables
+2023-12-19 18:04:31,301:INFO:Importing untrained model
+2023-12-19 18:04:31,306:INFO:Light Gradient Boosting Machine Imported successfully
+2023-12-19 18:04:31,315:INFO:Starting cross validation
+2023-12-19 18:04:31,317:INFO:Cross validating with StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), n_jobs=1
+2023-12-19 18:04:31,363:INFO:[LightGBM] [Info] This is the GPU trainer!!
+2023-12-19 18:04:31,363:INFO:[LightGBM] [Info] Total Bins 1480
+2023-12-19 18:04:31,363:INFO:[LightGBM] [Info] Number of data points in the train set: 63, number of used features: 71
+2023-12-19 18:04:31,364:INFO:[LightGBM] [Info] Using GPU Device: Intel(R) UHD Graphics 750, Vendor: Intel(R) Corporation
+2023-12-19 18:04:31,364:INFO:[LightGBM] [Info] Compiling OpenCL Kernel with 64 bins...
+2023-12-19 18:04:31,370:INFO:[LightGBM] [Info] GPU programs have been built
+2023-12-19 18:04:31,373:INFO:[LightGBM] [Info] Size of histogram bin entry: 8
+2023-12-19 18:04:31,377:INFO:[LightGBM] [Info] 71 dense feature groups (0.00 MB) transferred to GPU in 0.002892 secs. 0 sparse feature groups
+2023-12-19 18:04:31,393:INFO:[LightGBM] [Info] Start training from score -1.252763
+2023-12-19 18:04:31,393:INFO:[LightGBM] [Info] Start training from score -0.810930
+2023-12-19 18:04:31,393:INFO:[LightGBM] [Info] Start training from score -1.309921
+2023-12-19 18:04:31,397:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,399:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,400:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,403:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,404:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,405:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,407:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,408:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,409:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,410:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,412:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,413:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,415:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,418:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,420:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,422:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,423:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,425:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,427:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,429:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,430:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,433:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,435:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,438:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,439:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,441:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,442:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,444:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,445:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,447:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,448:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,449:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,452:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,454:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,456:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,457:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,459:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,461:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,462:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,464:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,465:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,466:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,468:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,469:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,471:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,472:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,474:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,476:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,478:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,479:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,481:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,482:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,484:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,486:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,487:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,489:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,490:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,492:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,493:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,495:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,496:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,499:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,501:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,503:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,505:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,506:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,508:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,509:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,510:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,511:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,512:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,513:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,515:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,516:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,517:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,520:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,522:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,523:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,526:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,527:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,529:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,530:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,531:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,532:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,534:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,536:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,538:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,540:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,541:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,542:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,544:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,546:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,547:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,548:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,550:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,552:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,553:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,554:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,556:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,557:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,558:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,560:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,562:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,563:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,564:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,566:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,569:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,570:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,571:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,573:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,574:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,575:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,576:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,663:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,669:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,671:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,672:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,674:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,675:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,676:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,678:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,679:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,681:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,682:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,686:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,687:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,689:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,690:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,691:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,693:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,694:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,695:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,697:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,698:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,700:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,704:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,705:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,707:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,708:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,709:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,710:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,712:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,713:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,715:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,719:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,721:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,722:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,724:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,725:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,726:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,728:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,729:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,730:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,731:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,732:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,733:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,737:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,738:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,739:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,741:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,742:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,744:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,745:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,746:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,749:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,753:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,753:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,754:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,756:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,757:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,758:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,760:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,762:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,763:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,765:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,767:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,769:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,771:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,773:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,774:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,775:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,777:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,778:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,780:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,781:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,782:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,785:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,787:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,788:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,790:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,791:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,793:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,794:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,795:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,797:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,798:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,799:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,800:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,802:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,803:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,804:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,806:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,807:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,808:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,809:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,810:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,812:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,814:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,815:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,816:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,818:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,820:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,822:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,823:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,825:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,826:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,827:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,829:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,830:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,831:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,833:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,836:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,837:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,839:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,839:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,840:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,841:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,842:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,844:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,845:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,847:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,848:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,850:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,851:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,853:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,855:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,856:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,857:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,858:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,859:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,861:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,862:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,863:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,864:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,866:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,867:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,869:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,870:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,872:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,873:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,874:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,876:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,878:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,879:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,880:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,881:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,882:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,884:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,885:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,887:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,888:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,890:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,891:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,892:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,893:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,895:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,896:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,897:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,899:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,900:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,902:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,904:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,905:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,906:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,908:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,909:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,911:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,912:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,913:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,915:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,916:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,918:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,920:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,921:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,922:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,924:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,926:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,927:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,928:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,929:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,930:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,932:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,934:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,935:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,937:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,939:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,940:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,942:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,943:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,944:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:31,975:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:32,024:INFO:[LightGBM] [Info] This is the GPU trainer!!
+2023-12-19 18:04:32,025:INFO:[LightGBM] [Info] Total Bins 1480
+2023-12-19 18:04:32,025:INFO:[LightGBM] [Info] Number of data points in the train set: 63, number of used features: 71
+2023-12-19 18:04:32,026:INFO:[LightGBM] [Info] Using GPU Device: Intel(R) UHD Graphics 750, Vendor: Intel(R) Corporation
+2023-12-19 18:04:32,026:INFO:[LightGBM] [Info] Compiling OpenCL Kernel with 64 bins...
+2023-12-19 18:04:32,030:INFO:[LightGBM] [Info] GPU programs have been built
+2023-12-19 18:04:32,032:INFO:[LightGBM] [Info] Size of histogram bin entry: 8
+2023-12-19 18:04:32,036:INFO:[LightGBM] [Info] 71 dense feature groups (0.00 MB) transferred to GPU in 0.003532 secs. 0 sparse feature groups
+2023-12-19 18:04:32,037:INFO:[LightGBM] [Info] Start training from score -1.309921
+2023-12-19 18:04:32,037:INFO:[LightGBM] [Info] Start training from score -0.775839
+2023-12-19 18:04:32,037:INFO:[LightGBM] [Info] Start training from score -1.309921
+2023-12-19 18:04:32,040:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,042:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,043:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,044:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,046:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,047:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,049:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,052:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,053:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,054:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,056:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,057:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,059:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,060:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,061:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,062:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,064:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,065:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,066:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,069:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,070:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,071:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,073:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,074:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,075:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,076:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,077:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,078:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,079:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,080:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,081:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,083:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,085:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,086:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,088:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,089:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,091:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,092:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,094:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,096:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,097:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,098:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,099:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,102:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,104:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,105:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,106:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,107:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,108:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,110:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,111:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,112:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,114:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,116:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,118:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,120:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,121:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,123:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,124:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,126:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,127:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,128:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,129:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,131:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,133:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,135:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,137:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,139:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,140:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,141:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,141:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,143:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,145:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,146:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,147:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,149:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,153:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,153:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,154:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,156:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,157:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,158:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,159:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,160:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,162:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,163:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,164:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,166:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,169:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,171:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,173:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,175:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,177:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,178:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,180:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,182:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,183:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,185:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,187:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,189:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,191:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,192:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,194:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,195:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,196:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,197:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,199:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,203:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,204:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,206:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,207:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,209:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,210:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,211:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,213:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,215:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,216:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,219:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,220:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,221:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,222:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,224:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,225:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,226:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,227:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,229:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,231:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,232:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,233:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,237:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,239:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,240:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,241:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,243:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,245:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,246:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,247:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,248:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,250:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,253:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,255:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,256:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,258:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,260:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,261:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,262:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,263:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,265:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,268:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,270:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,271:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,273:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,275:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,276:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,277:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,278:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,279:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,281:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,282:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,283:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,287:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,288:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,289:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,290:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,291:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,292:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,293:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,295:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,296:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,298:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,299:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,303:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,304:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,306:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,307:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,308:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,309:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,310:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,312:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,313:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,314:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,316:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,318:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,320:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,322:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,323:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,324:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,325:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,326:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,327:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,328:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,330:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,331:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,332:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,336:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,337:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,339:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,340:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,342:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,343:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,344:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,345:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,346:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,347:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,349:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,353:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,354:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,355:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,357:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,358:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,359:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,361:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,363:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,364:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,366:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,368:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,370:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,372:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,375:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,376:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,377:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,378:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,381:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,382:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,383:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,384:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,386:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,387:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,389:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,390:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,391:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,393:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,394:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,396:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,397:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,398:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,399:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,401:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,403:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,405:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,406:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,407:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,409:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,410:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,412:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,413:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,414:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,416:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,418:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,419:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,421:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,422:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,423:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,424:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,425:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,426:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,428:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,428:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,430:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,432:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,433:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,435:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,436:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,437:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,439:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,441:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,442:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,442:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,444:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,446:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,447:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,448:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,449:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,451:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,452:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,453:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,455:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,457:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,458:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,459:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,461:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,462:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,464:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,465:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,466:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,469:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,470:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,471:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,473:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,474:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,476:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,477:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,479:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,480:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,481:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,483:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,485:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,487:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,488:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,489:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,517:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:32,565:INFO:[LightGBM] [Info] This is the GPU trainer!!
+2023-12-19 18:04:32,565:INFO:[LightGBM] [Info] Total Bins 1472
+2023-12-19 18:04:32,566:INFO:[LightGBM] [Info] Number of data points in the train set: 63, number of used features: 71
+2023-12-19 18:04:32,566:INFO:[LightGBM] [Info] Using GPU Device: Intel(R) UHD Graphics 750, Vendor: Intel(R) Corporation
+2023-12-19 18:04:32,566:INFO:[LightGBM] [Info] Compiling OpenCL Kernel with 64 bins...
+2023-12-19 18:04:32,574:INFO:[LightGBM] [Info] GPU programs have been built
+2023-12-19 18:04:32,575:INFO:[LightGBM] [Info] Size of histogram bin entry: 8
+2023-12-19 18:04:32,578:INFO:[LightGBM] [Info] 71 dense feature groups (0.00 MB) transferred to GPU in 0.001945 secs. 0 sparse feature groups
+2023-12-19 18:04:32,579:INFO:[LightGBM] [Info] Start training from score -1.309921
+2023-12-19 18:04:32,579:INFO:[LightGBM] [Info] Start training from score -0.775839
+2023-12-19 18:04:32,579:INFO:[LightGBM] [Info] Start training from score -1.309921
+2023-12-19 18:04:32,581:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,582:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,583:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,586:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,587:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,588:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,589:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,590:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,591:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,593:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,595:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,596:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,597:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,598:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,599:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,601:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,603:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,605:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,606:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,608:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,609:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,611:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,612:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,613:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,615:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,616:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,618:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,620:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,621:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,622:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,623:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,624:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,626:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,628:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,629:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,630:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,631:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,633:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,634:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,636:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,638:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,639:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,640:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,642:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,643:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,645:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,646:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,647:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,649:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,651:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,652:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,654:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,655:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,657:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,658:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,659:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,660:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,661:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,663:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,664:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,665:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,667:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,668:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,670:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,671:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,672:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,674:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,676:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,677:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,678:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,680:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,681:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,683:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,685:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,686:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,688:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,689:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,690:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,692:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,693:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,695:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,696:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,698:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,699:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,701:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,703:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,704:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,705:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,707:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,709:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,710:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,712:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,713:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,714:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,715:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,716:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,717:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,718:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,719:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,721:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,722:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,723:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,724:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,725:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,726:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,728:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,730:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,731:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,733:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,735:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,736:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,738:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,739:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,740:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,741:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,744:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,746:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,747:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,749:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,750:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,751:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,753:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,754:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,755:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,757:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,758:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,759:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,761:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,762:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,763:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,765:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,766:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,768:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,769:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,770:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,772:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,774:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,775:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,776:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,778:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,780:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,781:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,783:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,785:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,787:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,788:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,789:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,791:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,792:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,793:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,795:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,796:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,797:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,798:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,799:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,800:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,802:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,804:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,805:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,806:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,808:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,809:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,811:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,812:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,813:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,815:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,816:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,818:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,819:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,821:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,822:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,824:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,825:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,827:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,828:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,830:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,832:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,833:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,834:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,836:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,838:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,839:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,840:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,842:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,844:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,844:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,846:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,847:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,848:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,849:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,850:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,851:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,854:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,855:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,856:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,858:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,859:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,860:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,862:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,863:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,865:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,867:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,869:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,870:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,871:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,873:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,874:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,876:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,877:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,878:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,879:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,880:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,882:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,883:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,885:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,887:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,888:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,890:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,891:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,893:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,894:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,895:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,897:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,898:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,900:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,902:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,903:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,904:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,906:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,907:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,908:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,910:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,912:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,913:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,915:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,916:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,918:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,920:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,922:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,923:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,924:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,925:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,926:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,928:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,929:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,930:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,931:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,932:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,933:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,935:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,936:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,938:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,939:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,940:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,942:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,943:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,944:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,946:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,947:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,949:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,951:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,953:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,955:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,956:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,957:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,959:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,960:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,961:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,962:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,963:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,965:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,966:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,968:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,969:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,970:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,971:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,973:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,975:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,976:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,977:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,979:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,981:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,982:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,983:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,984:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,985:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,986:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,988:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,989:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,990:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,991:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,993:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,994:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,995:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,997:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:32,998:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,000:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,001:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,003:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,004:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,033:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:33,082:INFO:[LightGBM] [Info] This is the GPU trainer!!
+2023-12-19 18:04:33,083:INFO:[LightGBM] [Info] Total Bins 1476
+2023-12-19 18:04:33,083:INFO:[LightGBM] [Info] Number of data points in the train set: 63, number of used features: 71
+2023-12-19 18:04:33,083:INFO:[LightGBM] [Info] Using GPU Device: Intel(R) UHD Graphics 750, Vendor: Intel(R) Corporation
+2023-12-19 18:04:33,084:INFO:[LightGBM] [Info] Compiling OpenCL Kernel with 64 bins...
+2023-12-19 18:04:33,089:INFO:[LightGBM] [Info] GPU programs have been built
+2023-12-19 18:04:33,092:INFO:[LightGBM] [Info] Size of histogram bin entry: 8
+2023-12-19 18:04:33,095:INFO:[LightGBM] [Info] 71 dense feature groups (0.00 MB) transferred to GPU in 0.001974 secs. 0 sparse feature groups
+2023-12-19 18:04:33,096:INFO:[LightGBM] [Info] Start training from score -1.252763
+2023-12-19 18:04:33,096:INFO:[LightGBM] [Info] Start training from score -0.775839
+2023-12-19 18:04:33,096:INFO:[LightGBM] [Info] Start training from score -1.370546
+2023-12-19 18:04:33,098:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,099:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,100:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,102:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,103:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,104:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,106:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,107:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,108:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,109:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,111:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,112:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,114:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,115:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,115:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,117:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,119:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,120:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,122:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,122:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,123:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,125:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,126:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,128:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,129:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,131:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,132:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,134:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,135:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,136:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,137:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,140:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,141:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,142:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,143:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,144:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,146:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,148:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,149:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,150:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,151:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,153:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,154:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,156:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,157:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,159:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,160:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,161:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,162:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,163:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,164:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,166:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,167:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,169:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,171:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,172:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,173:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,175:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,176:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,178:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,179:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,180:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,182:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,183:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,185:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,186:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,188:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,189:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,190:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,192:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,193:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,194:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,196:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,198:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,199:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,200:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,201:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,203:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,205:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,206:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,207:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,209:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,210:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,211:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,213:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,215:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,216:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,218:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,219:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,220:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,222:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,223:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,224:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,226:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,227:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,228:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,230:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,231:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,233:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,234:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,236:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,237:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,239:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,240:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,242:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,244:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,245:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,246:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,248:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,249:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,250:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,252:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,253:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,254:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,256:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,257:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,259:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,260:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,262:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,263:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,265:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,267:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,268:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,270:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,271:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,273:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,273:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,275:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,276:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,278:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,279:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,281:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,282:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,283:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,284:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,286:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,287:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,287:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,288:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,290:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,291:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,293:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,295:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,296:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,297:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,299:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,300:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,301:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,302:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,303:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,305:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,306:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,307:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,308:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,309:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,310:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,312:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,314:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,315:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,316:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,317:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,318:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,320:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,321:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,322:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,324:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,325:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,326:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,327:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,328:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,329:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,331:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,332:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,333:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,334:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,335:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,336:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,338:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,339:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,341:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,342:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,343:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,345:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,346:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,347:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,348:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,350:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,352:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,353:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,355:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,356:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,358:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,360:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,361:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,362:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,363:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,364:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,365:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,367:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,368:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,369:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,370:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,371:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,373:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,374:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,375:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,376:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,378:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,379:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,380:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,382:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,382:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,384:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,385:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,387:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,388:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,390:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,391:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,393:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,395:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,396:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,398:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,403:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,404:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,405:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,407:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,408:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,410:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,412:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,413:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,414:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,415:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,416:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,417:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,418:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,420:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,422:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,424:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,425:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,426:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,428:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,430:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,430:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,432:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,433:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,435:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,437:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,438:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,440:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,442:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,443:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,445:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,446:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,448:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,449:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,450:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,452:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,453:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,454:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,456:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,457:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,458:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,460:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,461:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,463:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,464:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,466:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,468:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,470:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,471:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,472:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,474:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,475:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,476:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,477:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,478:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,479:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,481:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,483:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,485:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,487:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,488:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,489:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,490:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,491:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,492:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,494:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,495:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,496:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,497:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,499:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,501:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,503:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,504:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,506:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,507:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,508:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,510:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,512:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,513:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,544:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:33,591:INFO:[LightGBM] [Info] This is the GPU trainer!!
+2023-12-19 18:04:33,593:INFO:[LightGBM] [Info] Total Bins 1497
+2023-12-19 18:04:33,593:INFO:[LightGBM] [Info] Number of data points in the train set: 64, number of used features: 71
+2023-12-19 18:04:33,593:INFO:[LightGBM] [Info] Using GPU Device: Intel(R) UHD Graphics 750, Vendor: Intel(R) Corporation
+2023-12-19 18:04:33,594:INFO:[LightGBM] [Info] Compiling OpenCL Kernel with 64 bins...
+2023-12-19 18:04:33,604:INFO:[LightGBM] [Info] GPU programs have been built
+2023-12-19 18:04:33,605:INFO:[LightGBM] [Info] Size of histogram bin entry: 8
+2023-12-19 18:04:33,607:INFO:[LightGBM] [Info] 71 dense feature groups (0.00 MB) transferred to GPU in 0.001763 secs. 0 sparse feature groups
+2023-12-19 18:04:33,610:INFO:[LightGBM] [Info] Start training from score -1.268511
+2023-12-19 18:04:33,610:INFO:[LightGBM] [Info] Start training from score -0.791587
+2023-12-19 18:04:33,610:INFO:[LightGBM] [Info] Start training from score -1.325670
+2023-12-19 18:04:33,611:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,612:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,614:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,616:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,617:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,620:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,622:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,624:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,626:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,626:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,628:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,629:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,630:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,631:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,633:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,634:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,638:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,639:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,640:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,641:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,642:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,643:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,645:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,646:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,648:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,649:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,651:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,652:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,654:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,655:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,657:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,658:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,659:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,661:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,662:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,664:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,665:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,666:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,667:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,669:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,671:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,673:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,674:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,676:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,677:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,678:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,679:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,680:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,682:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,684:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,685:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,688:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,689:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,691:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,692:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,693:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,695:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,696:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,697:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,698:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,699:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,701:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,703:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,705:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,706:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,707:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,709:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,711:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,712:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,714:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,715:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,717:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,719:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,721:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,722:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,724:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,725:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,726:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,727:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,728:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,730:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,731:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,732:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,734:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,735:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,737:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,738:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,740:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,742:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,743:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,744:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,746:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,747:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,749:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,751:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,752:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,754:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,755:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,757:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,758:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,760:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,761:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,762:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,764:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,766:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,767:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,769:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,771:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,773:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,774:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,776:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,777:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,778:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,780:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,781:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,782:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,784:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,786:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,788:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,790:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,791:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,792:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,794:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,795:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,797:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,798:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,799:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,801:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,803:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,804:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,805:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,807:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,808:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,809:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,811:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,812:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,813:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,814:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,815:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,817:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,819:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,820:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,821:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,823:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,824:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,826:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,827:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,829:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,831:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,832:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,833:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,835:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,837:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,839:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,841:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,842:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,844:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,845:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,847:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,849:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,850:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,851:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,853:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,854:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,856:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,858:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,859:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,860:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,862:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,864:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,865:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,866:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,868:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,870:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,872:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,873:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,875:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,877:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,878:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,879:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,880:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,882:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,883:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,886:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,889:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,890:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,892:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,893:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,895:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,897:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,898:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,903:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,906:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,908:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,910:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,911:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,912:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,913:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,915:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,917:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,918:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,922:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,925:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,926:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,928:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,929:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,930:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,932:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,933:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,935:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,938:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,939:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,941:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,943:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,944:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,946:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,948:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,950:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,954:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,955:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,957:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,961:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,963:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,964:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,966:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,968:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,970:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,971:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,973:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,976:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,978:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,979:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,981:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,983:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,984:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,987:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,989:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,992:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,994:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,996:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,997:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:33,998:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,000:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,001:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,003:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,004:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,007:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,009:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,010:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,012:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,014:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,016:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,018:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,021:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,023:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,024:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,025:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,028:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,030:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,031:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,033:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,035:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,038:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,040:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,041:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,043:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,045:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,046:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,048:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,049:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,051:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,054:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,056:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,057:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,058:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,060:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,061:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,063:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,065:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,066:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,068:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,070:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,071:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,073:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,075:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,076:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,077:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,078:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,079:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,081:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,082:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,084:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,086:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,088:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,090:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,091:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,093:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,095:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,096:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,097:INFO:[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+2023-12-19 18:04:34,126:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,147:INFO:Calculating mean and std
+2023-12-19 18:04:34,149:INFO:Creating metrics dataframe
+2023-12-19 18:04:34,155:INFO:Uploading results into container
+2023-12-19 18:04:34,156:INFO:Uploading model into container now
+2023-12-19 18:04:34,157:INFO:_master_model_container: 13
+2023-12-19 18:04:34,157:INFO:_display_container: 2
+2023-12-19 18:04:34,159:INFO:LGBMClassifier(boosting_type='gbdt', class_weight=None, colsample_bytree=1.0,
+               device='gpu', importance_type='split', learning_rate=0.1,
+               max_depth=-1, min_child_samples=20, min_child_weight=0.001,
+               min_split_gain=0.0, n_estimators=100, n_jobs=-1, num_leaves=31,
+               objective=None, random_state=3457, reg_alpha=0.0, reg_lambda=0.0,
+               subsample=1.0, subsample_for_bin=200000, subsample_freq=0)
+2023-12-19 18:04:34,159:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:34,267:INFO:SubProcess create_model() end ==================================
+2023-12-19 18:04:34,267:INFO:Creating metrics dataframe
+2023-12-19 18:04:34,278:INFO:Initializing Dummy Classifier
+2023-12-19 18:04:34,278:INFO:Total runtime is 0.19883598883946735 minutes
+2023-12-19 18:04:34,281:INFO:SubProcess create_model() called ==================================
+2023-12-19 18:04:34,281:INFO:Initializing create_model()
+2023-12-19 18:04:34,281:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=dummy, fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001A2C905DCD0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:34,281:INFO:Checking exceptions
+2023-12-19 18:04:34,281:INFO:Importing libraries
+2023-12-19 18:04:34,282:INFO:Copying training dataset
+2023-12-19 18:04:34,285:INFO:Defining folds
+2023-12-19 18:04:34,285:INFO:Declaring metric variables
+2023-12-19 18:04:34,289:INFO:Importing untrained model
+2023-12-19 18:04:34,293:INFO:Dummy Classifier Imported successfully
+2023-12-19 18:04:34,298:INFO:Starting cross validation
+2023-12-19 18:04:34,299:INFO:Cross validating with StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), n_jobs=1
+2023-12-19 18:04:34,317:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,325:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2023-12-19 18:04:34,346:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,351:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2023-12-19 18:04:34,372:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,377:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2023-12-19 18:04:34,396:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,401:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2023-12-19 18:04:34,417:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,423:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2023-12-19 18:04:34,425:INFO:Calculating mean and std
+2023-12-19 18:04:34,426:INFO:Creating metrics dataframe
+2023-12-19 18:04:34,428:INFO:Uploading results into container
+2023-12-19 18:04:34,428:INFO:Uploading model into container now
+2023-12-19 18:04:34,428:INFO:_master_model_container: 14
+2023-12-19 18:04:34,428:INFO:_display_container: 2
+2023-12-19 18:04:34,429:INFO:DummyClassifier(constant=None, random_state=3457, strategy='prior')
+2023-12-19 18:04:34,429:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:34,492:INFO:SubProcess create_model() end ==================================
+2023-12-19 18:04:34,492:INFO:Creating metrics dataframe
+2023-12-19 18:04:34,508:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:1641: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  return np.find_common_type(types, [])
+
+2023-12-19 18:04:34,513:INFO:Initializing create_model()
+2023-12-19 18:04:34,513:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=AdaBoostClassifier(algorithm='SAMME.R', base_estimator='deprecated',
+                   estimator=None, learning_rate=1.0, n_estimators=50,
+                   random_state=3457), fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:34,513:INFO:Checking exceptions
+2023-12-19 18:04:34,514:INFO:Importing libraries
+2023-12-19 18:04:34,514:INFO:Copying training dataset
+2023-12-19 18:04:34,516:INFO:Defining folds
+2023-12-19 18:04:34,516:INFO:Declaring metric variables
+2023-12-19 18:04:34,516:INFO:Importing untrained model
+2023-12-19 18:04:34,517:INFO:Declaring custom model
+2023-12-19 18:04:34,517:INFO:Ada Boost Classifier Imported successfully
+2023-12-19 18:04:34,518:INFO:Cross validation set to False
+2023-12-19 18:04:34,518:INFO:Fitting Model
+2023-12-19 18:04:34,609:INFO:AdaBoostClassifier(algorithm='SAMME.R', base_estimator='deprecated',
+                   estimator=None, learning_rate=1.0, n_estimators=50,
+                   random_state=3457)
+2023-12-19 18:04:34,609:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:34,681:INFO:Initializing create_model()
+2023-12-19 18:04:34,681:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=3457, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:34,681:INFO:Checking exceptions
+2023-12-19 18:04:34,683:INFO:Importing libraries
+2023-12-19 18:04:34,683:INFO:Copying training dataset
+2023-12-19 18:04:34,687:INFO:Defining folds
+2023-12-19 18:04:34,687:INFO:Declaring metric variables
+2023-12-19 18:04:34,687:INFO:Importing untrained model
+2023-12-19 18:04:34,687:INFO:Declaring custom model
+2023-12-19 18:04:34,688:INFO:Logistic Regression Imported successfully
+2023-12-19 18:04:34,688:INFO:Cross validation set to False
+2023-12-19 18:04:34,688:INFO:Fitting Model
+2023-12-19 18:04:34,715:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=3457, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2023-12-19 18:04:34,715:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:34,793:INFO:Initializing create_model()
+2023-12-19 18:04:34,794:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A2C8DBF090>, estimator=KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform'), fold=StratifiedKFold(n_splits=5, random_state=3457, shuffle=True), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2023-12-19 18:04:34,794:INFO:Checking exceptions
+2023-12-19 18:04:34,795:INFO:Importing libraries
+2023-12-19 18:04:34,796:INFO:Copying training dataset
+2023-12-19 18:04:34,798:INFO:Defining folds
+2023-12-19 18:04:34,798:INFO:Declaring metric variables
+2023-12-19 18:04:34,798:INFO:Importing untrained model
+2023-12-19 18:04:34,798:INFO:Declaring custom model
+2023-12-19 18:04:34,799:INFO:K Neighbors Classifier Imported successfully
+2023-12-19 18:04:34,799:INFO:Cross validation set to False
+2023-12-19 18:04:34,800:INFO:Fitting Model
+2023-12-19 18:04:34,814:INFO:KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform')
+2023-12-19 18:04:34,814:INFO:create_model() successfully completed......................................
+2023-12-19 18:04:34,908:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,908:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,909:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,909:WARNING:c:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:522: DeprecationWarning: np.find_common_type is deprecated.  Please use `np.result_type` or `np.promote_types`.
+See https://numpy.org/devdocs/release/1.25.0-notes.html and the docs for more information.  (Deprecated NumPy 1.25)
+  common = np.find_common_type([values.dtype, comps_array.dtype], [])
+
+2023-12-19 18:04:34,914:INFO:_master_model_container: 14
+2023-12-19 18:04:34,914:INFO:_display_container: 2
+2023-12-19 18:04:34,916:INFO:[AdaBoostClassifier(algorithm='SAMME.R', base_estimator='deprecated',
+                   estimator=None, learning_rate=1.0, n_estimators=50,
+                   random_state=3457), LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=3457, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform')]
+2023-12-19 18:04:34,916:INFO:compare_models() successfully completed......................................

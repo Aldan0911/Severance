@@ -1,0 +1,60 @@
+# Core libraries
+torch==1.12.0
+torchvision==0.11.0
+torchaudio==0.10.0
+
+# Hugging Face Transformers and Pipelines
+transformers==4.20.0
+
+# BERTopic for advanced topic modeling
+bertopic==0.15.0
+
+# Sentence Transformers for advanced NLP tasks
+sentence-transformers==2.2.0
+
+# KeyBERT for keyword extraction
+keybert==0.6.0
+
+# PyPDF2 for PDF manipulation
+PyPDF2==2.10.0
+
+# PyMuPDF for PDF rendering
+fitz==0.0.1.dev2
+
+# PIL and pytesseract for image processing and OCR
+Pillow==9.2.0
+pytesseract==0.3.10
+
+# Google Translator for translation tasks
+googletrans==4.0.0-rc1
+
+# NLTK for various NLP tasks
+nltk==3.7
+
+# spaCy for advanced NLP processing
+spacy==3.5.0
+
+# ScispaCy for scientific NLP
+scispacy==0.5.0
+
+# SpaCy models
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_core_sci_sm-0.5.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_core_sci_md-0.5.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_core_sci_lg-0.5.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_ner_craft_md-0.5.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_ner_jnlpba_md-0.5.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_ner_bc5cdr_md-0.5.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_ner_bionlp13cg_md-0.5.0.tar.gz
+
+# Gensim for topic modeling
+gensim==4.2.0
+
+# Data processing and visualization
+pandas==1.4.0
+matplotlib==3.5.3
+seaborn==0.12.0
+numpy==1.23.0
+pyLDAvis==3.3.1
+
+# Machine learning tools
+scikit-learn==1.1.1
